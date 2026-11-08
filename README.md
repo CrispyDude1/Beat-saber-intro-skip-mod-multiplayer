@@ -1,7 +1,5 @@
 # IntroSkip
 
-<img width="390" height="391" alt="image" src="https://github.com/user-attachments/assets/980a2ae0-2c6a-41e0-945c-01ba6881658b" />
-
 **IntroSkip** is a simple mod that allows you to skip long song intros, letting you get straight to the part of the song you actually want to play.
 
 ## Features
@@ -9,6 +7,8 @@
 - **Skip Song Intros:** Skip long or unnecessary intros instead of waiting for the song to reach the playable section.
 - **Multiplayer Support:** Designed to work during multiplayer sessions.
 - **Simple and Lightweight:** Focuses on one purpose without adding unnecessary features.
+
+<img width="390" height="391" alt="image" src="https://github.com/user-attachments/assets/980a2ae0-2c6a-41e0-945c-01ba6881658b" />
 
 ## How It Works
 
